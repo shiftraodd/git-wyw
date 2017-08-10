@@ -4,3 +4,5 @@ Git has a mutable index called stage.
 
 What is the different between diff and diff--cached?
 I don't know.
+
+Git tracks changes.
