@@ -2,4 +2,8 @@ Read me
 
 this is master
 
-creating a new branch is quick an simple
+<<<<<<< HEAD
+creating a new branch is quick and simple
+=======
+creating a new branch is quick and simple
+>>>>>>> featurel
